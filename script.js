@@ -1,0 +1,1 @@
+document.getElementById("title").innerText = document.getElementById("header").innerText;
